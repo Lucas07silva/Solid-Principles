@@ -1,0 +1,15 @@
+{
+    "name": "lucas/app_polimorfismo",
+    "authors": [
+        {
+            "name": "Lucas",
+            "email": "lucas@example.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "src\\": "src/"
+        }
+    }
+}

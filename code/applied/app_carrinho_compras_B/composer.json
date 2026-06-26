@@ -1,0 +1,17 @@
+{
+    "name": "usurio/app_carrinho_compras_b",
+    "autoload": {
+        "psr-4": {
+            "src\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Lucas",
+            "email": "lucas@example.com"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "^13.2"
+    }
+}
